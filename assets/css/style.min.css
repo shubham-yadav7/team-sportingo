@@ -694,7 +694,7 @@ section.services .card-wrapper:hover::after {
 }
 
 section.cta {
-  background: url("/assets/images/cta.jpg");
+  background-image: url("../images/cta.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1020,7 +1020,7 @@ section.blogs .blog-card .content a {
 section.page-header {
   position: relative;
   padding-top: 108px;
-  background: url("/assets/images/cta.jpg");
+  background-image: url("../images/cta.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
